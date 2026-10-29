@@ -107,7 +107,7 @@ Limitations.
 - COBYLA with 200 iterations and 5 random starts found the best optimum only once in 5 seeds.
 - One shot sample per setting, so small differences (for example B against D noisy r) are within sampling noise.
 - D is tailored to the graph, so the favourable D versus B comparison does not transfer to other graphs.
-- The pipeline was tested with Python 3.14.2, qiskit 2.6.1 and qiskit-aer 0.18.2.
+- The pipeline was tested with Python 3.14.2 and also in a clean Python 3.12.3 virtual environment (qiskit 2.6.1, qiskit-aer 0.18.2).
 
 Evidence-based improvements.
 - More restarts, since 4 of 5 starts stopped near r = 0.707 while one reached 0.805.

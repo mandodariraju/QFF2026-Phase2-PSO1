@@ -14,7 +14,7 @@ On D the QAOA circuit needs 0 SWAPs (B needs 1), 18 CX (B: 21) and depth 29 (B: 
 
 ## How to run
 
-Tested with Python 3.14.2, qiskit 2.6.1, qiskit-aer 0.18.2 (the kit lists Python 3.10 to 3.12).
+Tested with Python 3.14.2, qiskit 2.6.1, qiskit-aer 0.18.2 (the kit lists Python 3.10 to 3.12). The notebook was also run end to end in a clean Python 3.12.3 virtual environment with the pinned requirements (no errors).
 
 ```bash
 git clone https://github.com/mandodariraju/QFF2026-Phase2-PSO1
