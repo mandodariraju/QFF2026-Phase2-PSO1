@@ -1,0 +1,5 @@
+p,processor,condition,logical_cx,cx,depth,swaps,r,r_best,p_opt,exact_r
+2,B,ideal,36,42,68,2,0.884,1.0,0.229,0.8826
+2,B,noisy,36,42,68,2,0.8408,1.0,0.1897,0.8826
+2,D,ideal,36,36,52,0,0.8823,1.0,0.2312,0.8826
+2,D,noisy,36,36,52,0,0.8428,1.0,0.1934,0.8826
