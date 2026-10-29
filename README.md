@@ -91,6 +91,6 @@ See [`report.md`](report.md).
 
 ## AI tools disclosure
 
-[EDIT THIS TO BE TRUE.] Example: We used Claude (Anthropic) to help read the challenge kit, structure the repository,
+We used Claude (Anthropic) to help read the challenge kit, structure the repository, review code and draft the notebook and report text. We ran the notebook ourselves, checked the numbers against the generated CSV files, and take responsibility for the work.
 draft the notebook and write the report text. We ran the notebook ourselves, checked the numbers against the generated
 CSV files, and take responsibility for the correctness of the work.

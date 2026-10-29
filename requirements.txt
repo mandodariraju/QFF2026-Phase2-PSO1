@@ -1,8 +1,8 @@
-# Versions used: Python 3.14.2, qiskit 2.6.1, qiskit-aer 0.18.2, numpy 2.5.4, scipy 1.18.1, networkx 3.7, matplotlib 3.11.2
+# Pinned versions
 qiskit==2.6.1
 qiskit-aer==0.18.2
-numpy>=1.26
-scipy>=1.11
-networkx>=3.0
-matplotlib>=3.7
-jupyter
+numpy==2.5.4
+scipy==1.18.1
+networkx==3.7
+matplotlib==3.11.2
+jupyter==1.1.1

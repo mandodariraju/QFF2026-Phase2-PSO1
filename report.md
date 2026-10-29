@@ -24,10 +24,10 @@ Angles are optimised once (ideal) and the same angles are evaluated on every pro
 
 ## 2. Bell-state results (Objective 1)
 
-State |Phi+> on Processor D, measured in ZZ, XX, YY (4096 shots each). F = (1 + <XX> - <YY> + <ZZ>) / 4.
+State |Phi+> on Processor D, measured in ZZ, XX, YY (4096 shots each). F = (1 + E[XX] - E[YY] + E[ZZ]) / 4.
 The adjacent pair is physical qubits (0,2). The farthest pair is (0,1), distance 2, which is the diameter of D.
 
-| Pair | Dist. | Cond. | CX | <XX> | <YY> | <ZZ> | F |
+| Pair | Dist. | Cond. | CX | E[XX] | E[YY] | E[ZZ] | F |
 |---|---|---|---|---|---|---|---|
 | 0-2 | 1 | ideal | 1 | 1.0000 | -1.0000 | 1.0000 | 1.0000 ± 0.0000 |
 | 0-2 | 1 | noisy | 1 | 0.9458 ± 0.0051 | -0.9521 ± 0.0048 | 0.9551 ± 0.0046 | 0.9633 ± 0.0021 |
