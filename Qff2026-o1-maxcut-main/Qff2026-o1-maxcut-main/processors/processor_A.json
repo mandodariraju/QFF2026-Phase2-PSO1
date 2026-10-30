@@ -1,0 +1,13 @@
+{
+  "name": "processor_A",
+  "num_qubits": 5,
+  "coupling_map": [[0,1],[1,0],[1,2],[2,1],[1,3],[3,1],[3,4],[4,3]],
+  "basis_gates": ["rz", "sx", "x", "cx"],
+  "noise": {
+    "status": "provisional_pending_organizer_confirmation",
+    "one_qubit_depolarizing": 0.001,
+    "two_qubit_depolarizing": 0.005,
+    "readout_error": [[0.99, 0.01], [0.01, 0.99]]
+  },
+  "source": "Processor A/B Benchmark Configuration PDF (marked For Organizer Approval)"
+}

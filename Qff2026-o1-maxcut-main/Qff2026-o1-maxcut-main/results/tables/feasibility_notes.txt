@@ -1,0 +1,1 @@
+full_6q on processor_A: cannot be transpiled (CircuitTooWideForTarget: 'Number of qubits (6) in circuit-46 is greater than maximum (5) in the coupling_map')

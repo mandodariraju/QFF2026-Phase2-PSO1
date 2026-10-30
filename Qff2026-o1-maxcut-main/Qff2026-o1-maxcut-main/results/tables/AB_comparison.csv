@@ -1,0 +1,3 @@
+problem,depth_A,depth_B,depth_B_minus_A,cx_A,cx_B,cx_B_minus_A,swap_A,swap_B,swap_B_minus_A,effective_cx_A,effective_cx_B,effective_cx_B_minus_A,qubits_used_A,qubits_used_B,qubits_used_B_minus_A
+native_5q,43.25,34.45,-8.8,16.0,16.0,0.0,3.0,1.45,-1.55,25.0,20.35,-4.65,5.0,5.1,0.1
+reduced_5q,43.4,35.2,-8.2,18.0,18.0,0.0,4.0,1.5,-2.5,30.0,22.5,-7.5,5.0,5.0,0.0

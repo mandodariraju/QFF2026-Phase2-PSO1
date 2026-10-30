@@ -1,0 +1,4 @@
+problem,processor,depth_mean,depth_std,cx_mean,cx_std,swap_mean,swap_std,effective_cx_mean,effective_cx_std,qubits_used_mean,qubits_used_std
+full_6q,processor_B,45.5,7.472757540771538,24.0,0.0,2.3,0.4701623459816274,30.9,1.4104870379448815,6.0,0.0
+native_5q,processor_B,34.45,3.8453663161346743,16.0,0.0,1.45,0.5104177855340404,20.35,1.5312533566021218,5.1,0.3077935056255462
+reduced_5q,processor_B,35.2,4.905421275969766,18.0,0.0,1.5,0.512989176042577,22.5,1.5389675281277315,5.0,0.0

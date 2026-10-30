@@ -1,0 +1,7 @@
+instance_id,processor,logical_qubits,cx_count,depth,swap_count,effective_cx,noise_model,note
+ps_o1_seed42,processor_A,6,,,,,not run: needs N > 5 qubits,full problem runs on B only; A is a capacity reference
+ps_o1_seed42,processor_B,6,24.0,45.5,2.3,30.9,"transpile only (20 seeds, swap kept in basis)",
+ps_o1_seed42_reduced5_NOT_APPROVED,processor_A,5,18.0,43.4,4.0,30.0,"transpile only (20 seeds, swap kept in basis)",
+ps_o1_seed42_reduced5_NOT_APPROVED,processor_B,5,18.0,35.2,1.5,22.5,"transpile only (20 seeds, swap kept in basis)",
+native5_seed42_extra,processor_A,5,16.0,43.25,3.0,25.0,"transpile only (20 seeds, swap kept in basis)",
+native5_seed42_extra,processor_B,5,16.0,34.45,1.45,20.35,"transpile only (20 seeds, swap kept in basis)",
